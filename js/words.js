@@ -1,0 +1,1 @@
+let arrayWords =  ["Londýn", "Paříž", "Madrid", "Berlín", "Řím", "Kyjev", "Varšava", "Budapešť", "Praha", "Vídeň", "Bratislava", "Lisabon", "Dublin", "Stockholm", "Oslo", "Helsinky", "Kodaň", "Riga", "Tallinn", "Vilnius", "Bukurešť", "Sofie", "Atény", "Záhřeb", "Bělehrad"]
